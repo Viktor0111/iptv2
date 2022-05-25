@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:,Первый канал
+http://iptv.ktkru.ru:8001/index.m3u8
+#EXTINF:,РЕН ТВ
+https://sc.id-tv.kz:443/RenTV_34_35.m3u8
+#EXTINF:,РЕН ТВ (HD)
+http://iptv.ktkru.ru:8011/index.m3u8
+#EXTINF:,Россия 1
+http://iptv.ktkru.ru:8002/index.m3u8
